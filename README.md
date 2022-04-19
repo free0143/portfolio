@@ -8,3 +8,4 @@ RESOURCES THAT WERE NOT MY OWN:
 
 1. BACK TO TOP BUTTON: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
 2. CONTACT FORM: https://www.w3schools.com/howto/howto_css_contact_form.asp
+3. CSS RESET: https://meyerweb.com/eric/tools/css/reset/
