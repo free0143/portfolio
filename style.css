@@ -47,8 +47,8 @@ table {
 	border-spacing: 0;
 }
 
-/* my code below */
 
+/* MY CODE BELOW */
 body{
     font-family: helvetica;
     background-color: #FFF9EF;
@@ -62,6 +62,7 @@ header{
   width: 100%;
 }
 
+/* nav bar */
 ul {
     list-style-type: none;
     margin: 0;
@@ -72,13 +73,12 @@ ul {
   }
   
   li {
-    float: left;
+    display: inline-block;
   }
   
   li a {
     display: block;
     color: white;
-    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
@@ -179,6 +179,11 @@ h3{
     flex: 100%;
     max-width: 100%;
   }
+}
+
+.zoom:hover { 
+  transform: scale(1.7);
+  transition: transform 1s;
 }
 
 /* contact page */
